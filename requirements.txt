@@ -1,0 +1,11 @@
+ultralytics
+albumentations
+opencv-python
+mlflow
+dvc
+fastapi 
+uvicorn 
+onnxruntime
+prometheus-client
+evidently
+pytest
